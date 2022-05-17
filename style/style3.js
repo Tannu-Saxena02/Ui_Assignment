@@ -29,6 +29,7 @@ const style3=StyleSheet.create({
         marginTop:'2%'
     }
     ,
+    
     level:{
         color:'orange',
         fontSize:20

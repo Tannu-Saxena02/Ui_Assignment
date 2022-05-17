@@ -159,4 +159,5 @@ const style6=StyleSheet.create({
             textAlign:'center',
     }
 })
+
 export default style6;

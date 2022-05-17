@@ -21,6 +21,7 @@ const style5=StyleSheet.create({
         
         // marginLeft:'20%'
     },
+    
     forFlex:{
         justifyContent:'center',
         flexDirection:'row',

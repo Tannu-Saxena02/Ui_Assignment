@@ -48,6 +48,7 @@ const style4=StyleSheet.create({
         // flex:1
     
     },
+    
     txt:{
         paddingTop:10,
             paddingBottom:10,

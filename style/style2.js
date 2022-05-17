@@ -15,6 +15,7 @@ const style2=StyleSheet.create({
         // marginBottom: 30
      },
 
+     
      uppertext:{
         color:'green',
         fontSize:12,

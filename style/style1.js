@@ -122,6 +122,7 @@ const style1=StyleSheet.create({
         alignitems: 'center',
         height:45,
       },
+      
       textboxborder:{
         marginTop:'4%',
         marginLeft:'5%',

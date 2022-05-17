@@ -15,7 +15,6 @@ const Assignment6 = () => {
               variable=!variable;
               variable?color='blue':color='green';
               Setinitialcolor(color);
-
        }
        const [initialcolor,Setinitialcolor]=useState('green')
 

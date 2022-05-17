@@ -100,4 +100,5 @@ const Assignment2 = () => {
 
     )
 }
+
 export default Assignment2;
